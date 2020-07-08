@@ -14,3 +14,6 @@ This is a strapi helm Chart
 package this on github pages or storage cloud 
  
 <h1>https://github.com/strapi/strapi</h1>
+
+
+@strapi
