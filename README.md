@@ -1,4 +1,4 @@
-# helm-strapi
+# helm strapi
 
 This is a strapi helm Chart 
 
