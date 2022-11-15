@@ -1,5 +1,5 @@
 # helm strapi
-
+ 
 This is a strapi helm Chart 
 
   <h1>Why i did this ?</h1>
